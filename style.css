@@ -23,4 +23,6 @@ p{
 }
 body{
     list-style:none;
+    margin:0;
+    text-decoration:none;
 }
